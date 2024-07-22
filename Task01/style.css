@@ -1,0 +1,16 @@
+* {
+    font-family: "Archivo Black", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.title {
+    color : rgb(74, 34, 255)
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+
+}
